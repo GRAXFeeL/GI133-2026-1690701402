@@ -1,0 +1,7 @@
+D:\---FROM DRIVE C---\BU\CodeForBUClass\Rerpro\Assignment01\bin\Debug\Assignment01.exe.config
+D:\---FROM DRIVE C---\BU\CodeForBUClass\Rerpro\Assignment01\bin\Debug\Assignment01.exe
+D:\---FROM DRIVE C---\BU\CodeForBUClass\Rerpro\Assignment01\bin\Debug\Assignment01.pdb
+D:\---FROM DRIVE C---\BU\CodeForBUClass\Rerpro\Assignment01\obj\Debug\Assignment01.csproj.AssemblyReference.cache
+D:\---FROM DRIVE C---\BU\CodeForBUClass\Rerpro\Assignment01\obj\Debug\Assignment01.csproj.CoreCompileInputs.cache
+D:\---FROM DRIVE C---\BU\CodeForBUClass\Rerpro\Assignment01\obj\Debug\Assignment01.exe
+D:\---FROM DRIVE C---\BU\CodeForBUClass\Rerpro\Assignment01\obj\Debug\Assignment01.pdb
