@@ -1,0 +1,7 @@
+D:\---FROM DRIVE C---\BU\CodeForBUClass\Rerpro\Lab04\obj\Debug\Lab04.csproj.AssemblyReference.cache
+D:\---FROM DRIVE C---\BU\CodeForBUClass\Rerpro\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+D:\---FROM DRIVE C---\BU\CodeForBUClass\Rerpro\Lab04\bin\Debug\Lab04.exe.config
+D:\---FROM DRIVE C---\BU\CodeForBUClass\Rerpro\Lab04\bin\Debug\Lab04.exe
+D:\---FROM DRIVE C---\BU\CodeForBUClass\Rerpro\Lab04\bin\Debug\Lab04.pdb
+D:\---FROM DRIVE C---\BU\CodeForBUClass\Rerpro\Lab04\obj\Debug\Lab04.exe
+D:\---FROM DRIVE C---\BU\CodeForBUClass\Rerpro\Lab04\obj\Debug\Lab04.pdb
